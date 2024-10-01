@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Alief Muhammad Abdillah</h1>
+<h1 align="center">Hi 👋, I'm Alief Muhammad Abdillah</h1>
 <h3 align="center">Android & Backend Enthusiastic from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliefabdillah&label=Profile%20views&color=0e75b6&style=flat" alt="aliefabdillah" /> </p>
